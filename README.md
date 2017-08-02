@@ -1,4 +1,4 @@
-# pypdf2-exemple
+# ppypdf2-exemple-merge
 ## Doc
 http://pybrary.net/pyPdf/
 
